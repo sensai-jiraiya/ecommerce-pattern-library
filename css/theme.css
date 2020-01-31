@@ -45,3 +45,8 @@ h6 {
   color: black;
   font-weight: normal;
 }
+
+ul {
+  font-family: var(--font-primary);
+  list-style-type: none;
+}
