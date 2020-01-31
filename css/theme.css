@@ -6,3 +6,24 @@
   --color-accent-secondary: #dcb239;
   --font-primary: "Noto Sans JP", sans-serif;
 }
+
+html {
+  font-family: var(--font-primary);
+}
+h1 {
+  font-family: "Noto Sans JP", sans-serif:
+  color: black;
+  font-weight: bold;
+}
+
+h2 {
+  font-family: "Noto Sans JP", sans-serif;
+  color: black;
+  font-weight: 300;
+}
+
+h3 {
+  font-family: "Noto Sans JP", sans-serif;
+  color: black;
+  font-weight: normal;
+}
