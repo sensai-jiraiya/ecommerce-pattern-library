@@ -1,4 +1,25 @@
 permalink: pretty
 theme: jekyll_patternbot
 patternbot:
+  title: "Leashed"
+  description: |
+    A local website that carries all your pets apperal needs. Carrying a variety of different leashes, collars, bandanas and more. The wesbite displays this in a minimilistic manner.
   font_url: "https://fonts.googleapis.com/css?family=Noto+Sans+JP:300,400,700&display=swap"
+  colors:
+    background: "--color-primary-light"
+    accent: "--color-primary-dark"
+    patterns:
+      brand.logos: "--color-primary-light"
+      brand.typefaces: "--color-primary"
+      brand.colors: "--color-primary"
+  rationales:
+    typefaces.primary: |
+      Noto Sans JP was selected because it is a sans serif font that I believe fits in with the brand. Being minimilistic it's also more of a modern approach and that mean omitting sans-serifs.
+    colors.primary: |
+      This colour was selected for mainly for the header nav and the footer. Mainly being used for background elements. The light is used for fonts that need to be reversed out and the black is for most of the type on the website.
+    colors.secondary: |
+      This colour was selected to be used in some/most buttons on the website.
+    accent: |
+      This is used maily for buttons.
+    accent.secondary: |
+      This color was selected for cards in the product list page.

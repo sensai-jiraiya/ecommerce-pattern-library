@@ -1,6 +1,7 @@
 :root {
-  --color-primary: #FEDCD2;
+  --color-primary: #fff5f2;
   --color-primary-light: white;
+  --color-primary-dark: black;
   --color-secondary: #bfd8d2;
   --color-accent: #df744a;
   --color-accent-secondary: #dcb239;
@@ -91,7 +92,8 @@ strong {
 }
 
 mark {
-  background: var(--color-accent-secondary: #dcb239);
+  background: var(--color-accent-secondary);
+  color: white;
 }
 
 em {
