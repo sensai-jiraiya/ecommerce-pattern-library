@@ -15,4 +15,51 @@
   background: #808080;
   border-color: #808080;
   transition: all 0.4s ease 0s;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  letter-spacing: 2px;
+}
+
+.btn-ghost {
+ background-color: transparent;
+ color: black;
+ border: 1px solid;
+ text-transform: uppercase;
+ padding: 15px;
+ transition: all 0.4s ease 0s;
+ font-size: 12px;
+ font-weight: bold;
+ border-radius: 0px;
+}
+
+.btn-ghost:hover {
+  color: #ffffff;
+  background: black;
+  border-color: black;
+  transition: all 0.4s ease 0s;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  letter-spacing: 2px;
+}
+
+.btn-light {
+ background-color: #E0E0E0;
+ color: black;
+ text-transform: uppercase;
+ padding: 15px;
+ transition: all 0.3s ease 0s;
+ font-size: 12px;
+ font-weight: bold;
+ border-radius: 0px;
+ border: none;
+}
+
+.btn-light:hover {
+  color: #ffffff;
+  background: #808080;
+  border-color: #808080;
+  -webkit-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  -moz-box-shadow: 0px 5px 40px -10px rgba(0,0,0,0.57);
+  transition: all 0.3s ease 0s;
+  letter-spacing: 2px;
 }
