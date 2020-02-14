@@ -9,9 +9,10 @@ patternbot:
     background: "--color-primary-light"
     accent: "--color-primary-dark"
     patterns:
-      brand.logos: "--color-primary-light"
+      brand.logos: "--color-secondary"
       brand.typefaces: "--color-primary"
       brand.colors: "--color-primary"
+      icons.icons: "--color-secondary"
   rationales:
     typefaces.primary: |
       Primary is white because there won't be many colours used, trying to keep the website a combination of whites and greys for a more modern/minimilist vibe.

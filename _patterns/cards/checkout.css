@@ -1,0 +1,24 @@
+.long-card {
+  border: 1px solid #E0E0E0;
+  background-color: white;
+  height: 203px;
+}
+
+.checkout-img {
+  height: 200px;
+  max-width: 100px;
+}
+
+.brder-check {
+  background-color: white;
+  padding-left: 1em;
+}
+
+.edit {
+  padding-top: 1em;
+  margin-bottom: 5px;
+}
+
+.mash {
+  padding-top: 8px;
+}
