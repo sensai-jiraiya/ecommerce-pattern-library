@@ -52,6 +52,7 @@
  font-weight: bold;
  border-radius: 0px;
  border: none;
+ margin-bottom: 1em;
 }
 
 .btn-light:hover {
