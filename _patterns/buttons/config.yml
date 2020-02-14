@@ -1,0 +1,18 @@
+title: "Buttons"
+description: |
+  Buttons should be used in situations where obvious action is required. Do not over use buttons as the website is minimiltic.
+
+patterns:
+  basic:
+    title: "Basic"
+    description: |
+      Default to using the basic button. It should always be used in front of light backgrounds.
+    width: "12em"
+  ghost:
+    title: "Ghost"
+    description: |
+      Button will be used to add items to cart when viewing products.
+  light:
+    title: "Light"
+    description: |
+      This button is to be placed ontop of dark images. It will also function as a checkout button or a button used in the checkout process.
