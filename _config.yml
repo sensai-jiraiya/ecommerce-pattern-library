@@ -14,7 +14,7 @@ patternbot:
       brand.colors: "--color-primary"
   rationales:
     typefaces.primary: |
-      Noto Sans JP was selected because it is a sans serif font that I believe fits in with the brand. Being minimilistic it's also more of a modern approach and that mean omitting sans-serifs.
+      Primary is white because there won't be many colours used, trying to keep the website a combination of whites and greys for a more modern/minimilist vibe.
     colors.primary: |
       This colour was selected for mainly for the header nav and the footer. Mainly being used for background elements. The light is used for fonts that need to be reversed out and the black is for most of the type on the website.
     colors.secondary: |
