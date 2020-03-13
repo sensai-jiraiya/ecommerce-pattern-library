@@ -15,3 +15,9 @@
 .number-form {
   width: 100px;
 }
+
+.color {
+  background-color: #f8f8f8;
+  border-color: #e0e0e0;
+  border-radius: 3px;
+}
