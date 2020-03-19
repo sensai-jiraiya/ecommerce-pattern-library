@@ -1,12 +1,7 @@
 .long-card {
   border: 1px solid #E0E0E0;
   background-color: white;
-  height: 203px;
-}
 
-.checkout-img {
-  height: 200px;
-  max-width: 100px;
 }
 
 .brder-check {
