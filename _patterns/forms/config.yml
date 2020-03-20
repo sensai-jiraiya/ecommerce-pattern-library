@@ -1,0 +1,48 @@
+title: "Forms"
+description:
+  Forms are for the check out process.
+
+patterns:
+  card-name:
+    title: "Credit/Debit Card"
+    description: Input for customers Full name located on credit card.
+
+  card-number:
+    title: "Credit/Debit card number"
+    description: Input field for customers debit/credit card number.
+
+  city:
+    title: "City"
+    description: Where customer indicated the city they're located in.
+
+  cvc:
+    title: "CVC"
+    description: Where customer inputs CVC located on the back of payment cards.
+
+  expiration-date:
+    title: "Expiration Date"
+    description: Where customer inputs experation date located on payment cards.
+
+  first-name:
+    title: "First Name"
+    description: Customers first name.
+
+  instructions:
+    title: "Instructions"
+    description: Special instructions given by customer if needed.
+
+  last-name:
+    title: "Last Name"
+    description: Customers last name.
+
+  postal-code:
+    title: "Postal Code"
+    description: Where customer inputs postal code.
+
+  province:
+    title: "Province"
+    description: Customers Province.
+
+  street-address:
+    title: "Street Address"
+    description: Customers Street address.
