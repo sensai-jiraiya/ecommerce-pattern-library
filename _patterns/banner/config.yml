@@ -1,0 +1,6 @@
+patterns:
+  banner:
+    fields:
+      -name: heading
+      type: string
+      example: "New leather collars just in!"
