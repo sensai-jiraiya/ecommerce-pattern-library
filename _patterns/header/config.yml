@@ -1,0 +1,9 @@
+title: "Header"
+description:
+  This header will be used for all of the html files.
+
+patterns:
+  header:
+    title: "header"
+    description:
+      Default header navigation.

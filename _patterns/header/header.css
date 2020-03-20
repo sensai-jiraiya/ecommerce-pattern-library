@@ -1,3 +1,8 @@
-.header {
-  background color: #e0e0e0;
+header {
+  background-color: #f8f8f8;
+}
+
+ul {
+  padding-top: .6em;
+  margin: 0;
 }
