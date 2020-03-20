@@ -1,0 +1,17 @@
+.container {
+  position: relative;
+}
+
+.text {
+  position: absolute;
+   bottom: 8px;
+   left: 16px;
+}
+
+h1 {
+  color: white;
+}
+
+.line-one {
+  margin: 0;
+}
