@@ -24,3 +24,6 @@ patternbot:
       This is used maily for buttons.
     accent.secondary: |
       This color was selected for cards in the product list page.
+  layouts:
+    default: |
+      The default layout should be used for almost every page.
